@@ -51,7 +51,8 @@ npm run unit
 npm test
 ```
 
-![npm run unit](master-vue-cordova-webpack-pwa/src/assets/npm-run-unit.png)
+<img src="https://raw.githubusercontent.com/eksant/master-vue-cordova-webpack-pwa/master/src/assets/npm-run-unit.png" width="780">
 
 **Need Contributors.**  
-We are actively looking for contributors for testing and documentation. Please contact us: eksant[at]gmail.com. I really appreciate your cooperation.
+_We are actively looking for contributors for testing and documentation. Please contact us: [eksant[at]gmail.com](mailto://eksant@gmail.com).  
+I really appreciate your cooperation._
